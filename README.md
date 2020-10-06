@@ -12,3 +12,6 @@ Nous utilisons la méthode 2opt décrite dans cet article: https://towardsdatasc
 Plus le nombre d'itération dans l'algorithme est grand, plus on se raproche de la solution optimale
 
 ## Exemple pour 100 itérations
+<img src="exemple.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
